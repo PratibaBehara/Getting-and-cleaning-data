@@ -23,8 +23,8 @@ Goal of the project is to achieve a tidy data set from the above data according 
 =========================================
 The final tidy data has the following features. 
 
-*subject:  Contains the participant of the experiment
-*activity: Contains the activity of the participant
-*variable: Contains the different dimensions the participant is measured for
-*mean:     COntains the average mean measured across a subject,activity and a particular dimension
+* subject:  Contains the participant of the experiment
+* activity: Contains the activity of the participant
+* variable: Contains the different dimensions the participant is measured for
+* mean:     COntains the average mean measured across a subject,activity and a particular dimension
 
